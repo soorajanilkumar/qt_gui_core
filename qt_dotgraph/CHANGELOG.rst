@@ -2,6 +2,11 @@
 Changelog for package qt_dotgraph
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Convert qt_dotgraph to a pure Python package. (`#300 <https://github.com/ros-visualization/qt_gui_core/issues/300>`_)
+* Contributors: Chris Lalancette
+
 2.8.3 (2024-11-20)
 ------------------
 * Cleanup qt_dotgraph and make the tests more robust. (`#296 <https://github.com/ros-visualization/qt_gui_core/issues/296>`_)
